@@ -1,4 +1,4 @@
-### NAME: Tanessha
+### NAME: Tanessha Kannan
 ### REGISTER NUMBER: 23006086
 # Experiment--03-Half-Subtractor-and-Full-subtractor
 ## Implementation-of-Half-subtractor-and-Full-subtractor-circuit
